@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: f5d9e02e69c666e45bf5403cbdf999c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8079053310534125742
+    second: Duality_player_0
+  - first:
+      213: 788551438805127839
+    second: Duality_player_1
+  - first:
+      213: 3049188914967746718
+    second: Duality_player_2
+  - first:
+      213: 7380100869866469131
+    second: Duality_player_3
+  - first:
+      213: -5148825015902977466
+    second: Duality_player_4
+  - first:
+      213: -7870155291332595552
+    second: Duality_player_5
+  - first:
+      213: 2108379032511845469
+    second: Duality_player_6
+  - first:
+      213: 6978957310528097340
+    second: Duality_player_7
+  - first:
+      213: -5641604356021609558
+    second: Duality_player_8
+  - first:
+      213: -2377120574364925071
+    second: Duality_player_9
+  - first:
+      213: -5545936073561972424
+    second: Duality_player_10
+  - first:
+      213: -1365494697265115123
+    second: Duality_player_11
+  - first:
+      213: -5941210752625508277
+    second: Duality_player_12
+  - first:
+      213: -6986623557015680300
+    second: Duality_player_13
+  - first:
+      213: -4791702185525398407
+    second: Duality_player_14
+  - first:
+      213: 6403505484973842270
+    second: Duality_player_15
+  - first:
+      213: -1976688015034209373
+    second: Duality_player_16
+  - first:
+      213: 8452919027424627347
+    second: Duality_player_17
+  - first:
+      213: 5827380549982810308
+    second: Duality_player_18
+  - first:
+      213: 4211076348300842094
+    second: Duality_player_19
+  - first:
+      213: 5731912049650647515
+    second: Duality_player_20
+  - first:
+      213: -3588933343018096960
+    second: Duality_player_21
+  - first:
+      213: 3920275360683125739
+    second: Duality_player_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Duality_player_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1187
+        width: 175
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea884d76e209e1070800000000000000
+      internalID: 8079053310534125742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1155
+        width: 201
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f925a1d0b5f71fa00800000000000000
+      internalID: 788551438805127839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1202
+        width: 247
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9816b1b925e05a20800000000000000
+      internalID: 3049188914967746718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1197
+        width: 215
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0731f2c3a26b6660800000000000000
+      internalID: 7380100869866469131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_4
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1194
+        width: 187
+        height: 247
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642457c7de2bb88b0800000000000000
+      internalID: -5148825015902977466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_5
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1158
+        width: 193
+        height: 279
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0b5fcd57797c290800000000000000
+      internalID: -7870155291332595552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_6
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1200
+        width: 237
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5410c43f87724d10800000000000000
+      internalID: 2108379032511845469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_7
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1192
+        width: 217
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c84a4a2bc3ad060800000000000000
+      internalID: 6978957310528097340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 557
+        width: 416
+        height: 407
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab190c8abef4b1b0800000000000000
+      internalID: -5641604356021609558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_14
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 560
+        width: 364
+        height: 370
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974bb42ff34708db0800000000000000
+      internalID: -4791702185525398407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_15
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 566
+        width: 262
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f9125bf42ddd850800000000000000
+      internalID: 6403505484973842270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_16
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 568
+        width: 338
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab2d1829b46194e0800000000000000
+      internalID: -1976688015034209373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_17
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 566
+        width: 380
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a09c8e11dce4570800000000000000
+      internalID: 8452919027424627347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 21
+        width: 394
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0feb44cb30fd050800000000000000
+      internalID: 5827380549982810308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_19
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 30
+        width: 387
+        height: 419
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e645586a0afb07a30800000000000000
+      internalID: 4211076348300842094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_20
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 32
+        width: 334
+        height: 413
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd14533e3a7db8f40800000000000000
+      internalID: 5731912049650647515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_21
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 34
+        width: 370
+        height: 413
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6e9d6b32c813ec0800000000000000
+      internalID: -3588933343018096960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duality_player_22
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 24
+        width: 389
+        height: 416
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebeb378bad976630800000000000000
+      internalID: 3920275360683125739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
