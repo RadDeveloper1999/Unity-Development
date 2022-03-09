@@ -9,4 +9,4 @@ The constraints for the game jam were as follows:
 2. Should be one-button playable. 
 
 Link to the game: https://raddeveloper.itch.io/duality
-Enjoy!
+
